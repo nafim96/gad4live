@@ -5,7 +5,10 @@ const Dashboard = () => {
   return (
     <div>
       <Navbar />
-      <h1>This is dashboard</h1>
+      <h5>This is dashboard</h5>
+      <h1 style={{ textAlign: "center", color: "red" }}>
+        Gousol Azam Divine Mission
+      </h1>
     </div>
   );
 };
